@@ -1,5 +1,5 @@
 # Recursive Countdown
-This is a simple countdown method written using recursion. The method calls itself, over and over again, until we reach zero.
+This is a [simple countdown method](src/countdown/RecursiveCountdown.java) written using recursion. The method calls itself, over and over again, until we reach zero.
 
 Note that the recursive method is strcutred with a **base case** (i.e. when we know to stop) and a **recursive case** (i.e. calling itself, with a subset of parameters).
 
